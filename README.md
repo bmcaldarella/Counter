@@ -1,4 +1,4 @@
-#ContadorComponents.jsx
+ContadorComponents.jsx
 This file contains a React component called ContadorComponents. Its main function is to display a counter in the user interface and allow the user to increment, decrement, or reset its value. Here are the key details:
 
 Imports: It imports the custom hook UseCounter and other necessary React elements.
